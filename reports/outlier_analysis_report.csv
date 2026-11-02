@@ -1,0 +1,6 @@
+Column,Lower Limit,Upper Limit,Outlier Count
+sales,-149.97500980000007,569.9050254000001,488
+order_profit_per_order,-79.70000457500001,151.50000762500002,18942
+days_for_shipping_real,-2.5,9.5,0
+order_item_quantity,-2.0,6.0,0
+product_price,-174.98500825,424.97501375,2048
